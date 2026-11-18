@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "../pyr/raw/logo-truck-sq.png"
+ },
+ "source_md5": "762f0b232f54f3af009a6def46719691",
+ "version": "a3196f38",
+ "tile": "#111214",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/pyrovolikos-metafores-metakomiseis-logo-320.webp",
+  "a073076241f2ed4a18a292b8f7ca0239"
+ ],
+ "made": "2026-11-18"
+}
